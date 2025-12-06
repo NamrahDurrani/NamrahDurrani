@@ -12,9 +12,7 @@ I'm a passionate AI & ML developer who loves building real-world, impactful solu
 My work spans **deep learning, LLM-based systems, computer vision, and end-to-end ML pipelines**.
 
 ## 🔧 Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-🔥-red?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-🐶-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
